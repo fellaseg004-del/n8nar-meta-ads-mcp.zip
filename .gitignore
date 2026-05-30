@@ -1,0 +1,19 @@
+# dependencies
+/node_modules
+
+# next.js
+/.next
+/out
+
+# env — مهم جدًا: التوكنات ماتترفعش على GitHub أبدًا
+.env
+.env*.local
+
+# vercel
+.vercel
+
+# misc
+*.log
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts
